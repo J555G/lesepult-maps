@@ -9,7 +9,7 @@ This repository holds only the current files: its history is replaced when the p
 
 | Folder | Package | Source and licence |
 |---|---|---|
-| `base/` | Base map, map engines | Natural Earth (public domain); MapLibre GL JS 4.7 and 5.24, pmtiles.js (BSD-3-Clause) |
+| `base/` | Base map, map engines | NASA Blue Marble Next Generation, April (public domain); Natural Earth (public domain); MapLibre GL JS 4.7 and 5.24, pmtiles.js (BSD-3-Clause) |
 | `ancient/` | Ancient world | Ancient World Mapping Center, geodata after the Barrington Atlas (ODbL 1.0) |
 | `places/` | Ancient places | Pleiades (CC BY 3.0); Hanson 2016, Hanson & Ortman 2017 (CC BY-SA 4.0) |
 | `landscape/` | Landscape – detailed | © OpenStreetMap contributors, as edited by the AWMC (ODbL 1.0); Natural Earth |
